@@ -7,3 +7,6 @@ Usuing the review through Harvards foundations in Algorithms and MIT -- I found 
 An algorithm is the work done or the work accomplished in a language. It is what gives results in a program, it is what solves problems as a language. so, it is important to understand big O notation, or Theta Notation, or realizing the Omega notation and realizing runtime given the algorithm at hand. How long it takes to process the work, and given low level languages, how much memory is borrowed and used.
 
 either way. These are the Binary Tree exersizes given to the student of holberton for professional development. in this case I'm the student learning productively, but happy I know the importance of the task.
+
+https://github.com/holbertonschool/0x1C.c
+the exmaple exersize for the project.
