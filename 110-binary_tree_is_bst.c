@@ -28,7 +28,7 @@ if (tree->right->n > tree->n)
 return (1);
 }
 return (0);
-}
+
 
 
 /*first set*/
@@ -44,5 +44,4 @@ if (binary_tree_is_bst(tree->right) == 0)
 
 return (0);
 return (1);
-
 }
